@@ -197,6 +197,7 @@
             AddBtn.TabIndex = 35;
             AddBtn.Text = "Add";
             AddBtn.UseVisualStyleBackColor = false;
+            AddBtn.Click += AddBtn_Click;
             // 
             // AddCrsCtrl
             // 

@@ -22,5 +22,8 @@
     <Compile Update="Student.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="success.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -11,19 +10,31 @@ using System.Windows.Forms;
 
 namespace Examination_System
 {
-    public partial class AddExam : UserControl
+    public partial class success : UserControl
     {
-        success scc;
-        public AddExam()
+        public success(string msg)
         {
             InitializeComponent();
-            scc = new("Added");
+            this.label1.Text = msg;
+            
+           
+
+            
+
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Controls.Add(scc);
-            scc.BringToFront();
+            this.Visible = false;
         }
+
+       
+        
     }
 }

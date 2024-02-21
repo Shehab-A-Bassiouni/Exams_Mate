@@ -14,19 +14,23 @@ namespace Examination_System
     public partial class AddQues : UserControl
     {
         string[] optionTxtBx_PlaceHolder;
+        success succ;
         public AddQues()
         {
             InitializeComponent();
             optionTxtBx_PlaceHolder = ["Option 1 ..", "Option 2 ..", "Option 3 ..", "Option 4 .." , "Enter Question Content.."];
             OptionsTxtBxAttachEvents();
             OptionsPanel.Visible = false;
+
             
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            succ = new("Added");
+            this.Controls.Add(succ);
+            succ.BringToFront();
         }
 
         private void label5_Click(object sender, EventArgs e)

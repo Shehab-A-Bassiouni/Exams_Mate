@@ -318,11 +318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swesh\\OneDrive\\Desktop\\Version 1.2\\DB Project\\Examination_System\\Examination_System\\Examination_System.csproj",
+      "projectUniqueName": "C:\\Users\\swesh\\OneDrive\\Desktop\\Exams_Mate\\Examination_System\\Examination_System.csproj",
       "projectName": "Examination_System",
-      "projectPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Version 1.2\\DB Project\\Examination_System\\Examination_System\\Examination_System.csproj",
+      "projectPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Exams_Mate\\Examination_System\\Examination_System.csproj",
       "packagesPath": "C:\\Users\\swesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Version 1.2\\DB Project\\Examination_System\\Examination_System\\obj\\",
+      "outputPath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Exams_Mate\\Examination_System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uJ7FdcSKNo+9GNJ9tsSmDixzzyB0Sjz8gdX7+K3kDBmz5cxrytwuAdO9IVoswUm+f0EpDVTfkjJBSaa6O/mGGQ==",
+  "dgSpecHash": "1LMPCLBcjMort03ESHhYPQt6k0Mgh3Q4Hu9XCE8tNZGDrK2EOp1nIRFOtsO16+mXQDRksxDGLd2Lpdtt1K3+5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Version 1.2\\DB Project\\Examination_System\\Examination_System\\Examination_System.csproj",
+  "projectFilePath": "C:\\Users\\swesh\\OneDrive\\Desktop\\Exams_Mate\\Examination_System\\Examination_System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swesh\\.nuget\\packages\\excss\\4.2.3\\excss.4.2.3.nupkg.sha512",
     "C:\\Users\\swesh\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

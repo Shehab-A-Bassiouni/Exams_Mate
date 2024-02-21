@@ -12,9 +12,17 @@ namespace Examination_System
 {
     public partial class AddCrsCtrl : UserControl
     {
+        success succ;
         public AddCrsCtrl()
         {
             InitializeComponent();
+        }
+
+        private void AddBtn_Click(object sender, EventArgs e)
+        {
+            succ = new("Added");
+            this.Controls.Add(succ);
+            succ.BringToFront();
         }
     }
 }

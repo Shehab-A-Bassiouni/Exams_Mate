@@ -257,7 +257,10 @@
             // 
             // CloseBtn
             // 
+            CloseBtn.FlatAppearance.BorderColor = Color.White;
             CloseBtn.FlatAppearance.BorderSize = 0;
+            CloseBtn.FlatAppearance.MouseDownBackColor = Color.White;
+            CloseBtn.FlatAppearance.MouseOverBackColor = Color.White;
             CloseBtn.FlatStyle = FlatStyle.Flat;
             CloseBtn.Image = (Image)resources.GetObject("CloseBtn.Image");
             CloseBtn.Location = new Point(1408, 16);
@@ -269,7 +272,10 @@
             // 
             // MinimBtn
             // 
+            MinimBtn.FlatAppearance.BorderColor = Color.White;
             MinimBtn.FlatAppearance.BorderSize = 0;
+            MinimBtn.FlatAppearance.MouseDownBackColor = Color.White;
+            MinimBtn.FlatAppearance.MouseOverBackColor = Color.White;
             MinimBtn.FlatStyle = FlatStyle.Flat;
             MinimBtn.Image = (Image)resources.GetObject("MinimBtn.Image");
             MinimBtn.Location = new Point(1357, 16);
