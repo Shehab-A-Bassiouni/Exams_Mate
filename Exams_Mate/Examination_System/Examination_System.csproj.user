@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddCrsCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddDeptCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddExam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddQues.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CrsStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditExamInstr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExamsStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GrdsStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HomeStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InstrHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Instructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="joinStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="manageCourseInstr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ManageDeptInstr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="mngQuesInstr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="mngStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="reports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="slvStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudSolveExam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="success.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
